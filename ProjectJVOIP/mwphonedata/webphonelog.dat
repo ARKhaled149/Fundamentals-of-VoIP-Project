@@ -1,0 +1,5 @@
+[2022.05.26 18:48:46:521] *****************SIP STACK START***************** [inst: 8755]
+[2022.05.26 18:48:46:523] EVENT,set iswsptrt30 to 4 autotransportdetect=no usetunneling=0 {thread: 1} [inst: 8755]
+[2022.05.26 18:48:46:524] EVENT, upper server set9 to    {thread: 1} [inst: 8755]
+[2022.05.26 18:48:46:524] EVENT,read config file (2901) C:\Users\20102\Desktop\ProjectJVOIP\mwphonedata\u89wpcfgex.dat {thread: 1} [inst: 8755]
+[2022.05.26 18:48:46:524] EVENT, configex load finished 116 {thread: 1} [inst: 8755]
